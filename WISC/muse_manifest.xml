@@ -1,0 +1,28 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409509212471">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_main.css" crc="339083487" ref="index:publications:contact"/>
+    <file name="index.css" crc="283585111" ref="index"/>
+    <file name="publications.css" crc="4159323467" ref="publications"/>
+    <file name="contact.css" crc="145051314" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3894632669" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:publications:contact"/>
+    <file name="museutils.js" crc="4136605575" ref="index:publications:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:publications:contact"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:publications:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:publications:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="duke_univ_logo.gif" crc="321181940" ref="index:publications:contact"/>
+    <file name="img_0110.jpg" crc="4284239856" ref="index:publications:contact"/>
+    <file name="lgo_ncaa_duke_blue_devils.png" crc="410205110" ref="index:publications:contact"/>
+    <file name="duke_cs_logo_huge.png" crc="3943104579" ref="index:publications:contact"/>
+    <file name="images.jpg" crc="123623641" ref="index:publications:contact"/>
+  </folder>
+  <file name="index.html" crc="402041227" mt="1409509211457" redirect="true"/>
+  <file name="publications.html" crc="4218964839" mt="1409509211459" redirect="true"/>
+  <file name="contact.html" crc="4184993398" mt="1409509211459" redirect="true"/>
+</manifest>
