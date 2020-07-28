@@ -35,6 +35,10 @@
 	width: 1043px;
 	height: 2px;
 	left: -52px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: transparent;
+	background-color: #B00000;
 }
 
 #pu318
@@ -44,22 +48,6 @@
 	margin-top: 22px;
 }
 
-#u318
-{
-	z-index: 2;
-	width: 168px;
-	margin-right: -10000px;
-}
-
-#u367-11
-{
-	z-index: 4;
-	width: 322px;
-	min-height: 69px;
-	margin-right: -10000px;
-	margin-top: 82px;
-	left: 195px;
-}
 
 #u372-3
 {
@@ -70,13 +58,6 @@
 	left: 129px;
 }
 
-#u118
-{
-	z-index: 19;
-	width: 183px;
-	margin-right: -10000px;
-	left: 770px;
-}
 
 #pppmenuu467
 {
@@ -288,7 +269,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #005CB7;
+	color: #000000;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -313,12 +294,12 @@
 
 #u517-6
 {
-	color: #04046E;
+	color: #000000;
 }
 
 #u517-7
 {
-	color: #005CB7;
+	color: #000000;
 }
 
 #u517-11,#u517-12,#u517-18,#u517-19,#u517-25,#u517-26,#u517-32,#u517-33,#u517-39,#u517-40,#u517-46
@@ -330,7 +311,7 @@
 
 #u517-9,#u517-14,#u517-16,#u517-21,#u517-23,#u517-28,#u517-30,#u517-35,#u517-37,#u517-42,#u517-44
 {
-	color: #02029B;
+	color: #000000;
 }
 
 #u566
@@ -338,7 +319,7 @@
 	z-index: 94;
 	width: 291px;
 	background-color: transparent;
-	margin-left: 518px;
+	margin-left: 588px;
 	margin-top: 33px;
 	position: relative;
 }
@@ -350,8 +331,8 @@
 	height: 2px;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #000000;
-	background-color: #014C97;
+	border-color: transparent;
+	background-color: #B00000;
 	left: -52px;
 	margin-top: 32px;
 	position: relative;

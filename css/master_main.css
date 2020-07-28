@@ -18,7 +18,7 @@
 {
 	font-size: 27px;
 	line-height: 32px;
-	color: #014C97;
+	color: #000000;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 700;
 	font-style: normal;
@@ -28,7 +28,7 @@
 {
 	font-size: 23px;
 	line-height: 28px;
-	color: #0043A9;
+	color: #000000;
 	font-weight: bold;
 }
 
@@ -37,7 +37,7 @@
 	font-size: 18px;
 	line-height: 22px;
 	letter-spacing: 1px;
-	color: #014C97;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 800;
 }
@@ -59,24 +59,20 @@
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: #2465A5;
-	background-color: rgba(1, 76, 151, 0.86);
+	background-color: rgba(155, 2, 2, 0.86);
 	position: relative;
-	-pie-background: rgba(1, 76, 151, 0.86);
 }
 
 #u476:hover #u478
 {
-	background-color: #2525A9;
-	background-color: rgba(2, 2, 155, 0.86);
-	-pie-background: rgba(2, 2, 155, 0.86);
+	background-color: rgba(155, 2, 2, 0.86);
+	-pie-background: rgba(155, 2, 2, 0.86);
 }
 
 #u476.MuseMenuActive #u478
 {
-	background-color: #2525A9;
-	background-color: rgba(2, 2, 155, 0.86);
-	-pie-background: rgba(2, 2, 155, 0.86);
+	background-color: rgba(155, 2, 2, 0.86);
+	-pie-background: rgba(155, 2, 2, 0.86);
 }
 
 #u477-4
@@ -84,7 +80,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #014C97;
+	color: #000000;
 	line-height: 30px;
 	font-size: 25px;
 	text-align: left;
@@ -107,13 +103,11 @@
 
 #u476:hover #u477-4 p
 {
-	color: #02029B;
 	visibility: inherit;
 }
 
 #u476:active #u477-4 p
 {
-	color: #02029B;
 	visibility: inherit;
 }
 
@@ -125,31 +119,28 @@
 
 #u476.MuseMenuActive #u477-4,#u490.MuseMenuActive
 {
-	border-color: #02029B;
+	border-color: #transparent;
 }
 
 #u493
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: #2465A5;
-	background-color: rgba(1, 76, 151, 0.86);
+	background-color: rgba(155, 2, 2, 0.86);
 	position: relative;
-	-pie-background: rgba(1, 76, 151, 0.86);
+	-pie-background: rgba(155,2,2, 0.86);
 }
 
 #u490:hover #u493
 {
-	background-color: #2525A9;
-	background-color: rgba(2, 2, 155, 0.86);
-	-pie-background: rgba(2, 2, 155, 0.86);
+	background-color: rgba(155, 2, 2, 0.86);
+	-pie-background: rgba(155,2,2, 0.86);
 }
 
 #u490.MuseMenuActive #u493
 {
-	background-color: #2525A9;
-	background-color: rgba(2, 2, 155, 0.86);
-	-pie-background: rgba(2, 2, 155, 0.86);
+	background-color: rgba(155, 2, 2, 0.86);
+	-pie-background: rgba(155,2,2, 0.86);
 }
 
 #u491-4
@@ -157,7 +148,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #014C97;
+	color: #000000;
 	line-height: 30px;
 	font-size: 25px;
 	text-align: left;
@@ -168,13 +159,13 @@
 
 #u476.MuseMenuActive #u477-4 p,#u490:hover #u491-4 p
 {
-	color: #02029B;
+	color: #000000;
 	visibility: inherit;
 }
 
 #u490:active #u491-4 p
 {
-	color: #02029B;
+	color: #000000;
 	visibility: inherit;
 }
 
@@ -188,24 +179,21 @@
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: #2465A5;
-	background-color: rgba(1, 76, 151, 0.86);
+	background-color: rgba(155, 2, 2, 0.86);
 	position: relative;
-	-pie-background: rgba(1, 76, 151, 0.86);
+	-pie-background: rgba(155, 2, 2, 0.86);
 }
 
 #u497:hover #u498
 {
-	background-color: #2525A9;
-	background-color: rgba(2, 2, 155, 0.86);
-	-pie-background: rgba(2, 2, 155, 0.86);
+	background-color: rgba(155, 2, 2, 0.86);
+	-pie-background: rgba(155,2,2, 0.86);
 }
 
 #u497.MuseMenuActive #u498
 {
-	background-color: #2525A9;
-	background-color: rgba(2, 2, 155, 0.86);
-	-pie-background: rgba(2, 2, 155, 0.86);
+	background-color: rgba(155,2,2, 0.86);
+	-pie-background: rgba(155,2,2, 0.86);
 }
 
 #u499-4
@@ -213,7 +201,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #014C97;
+	color: #000000;
 	line-height: 30px;
 	font-size: 25px;
 	text-align: left;
@@ -224,13 +212,13 @@
 
 #u490.MuseMenuActive #u491-4 p,#u497:active #u499-4 p
 {
-	color: #02029B;
+	color: #000000;
 	visibility: inherit;
 }
 
 #u497.MuseMenuActive #u499-4 p
 {
-	color: #02029B;
+	color: #000000;
 	visibility: inherit;
 }
 
@@ -245,3 +233,30 @@
 	position: relative;
 }
 
+
+/*global properties set by pfzheng*/
+
+#u318
+{
+	z-index: 2;
+	width: 168px;
+	margin-right: -10000px;
+	margin-top: 52px;
+}
+
+#u367-11
+{
+	z-index: 4;
+	width: 380px;
+	min-height: 69px;
+	margin-right: -10000px;
+	margin-top: 82px;
+	left: 290px;
+}
+
+#u118
+{
+	z-index: 19;
+	margin-right: -10000px;
+	left: 810px;
+}

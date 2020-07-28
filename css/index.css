@@ -34,6 +34,10 @@
 	width: 1043px;
 	height: 2px;
 	left: -52px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: transparent;
+	background-color: #B00000;
 }
 
 #pu318
@@ -43,22 +47,6 @@
 	margin-top: 22px;
 }
 
-#u318
-{
-	z-index: 2;
-	width: 168px;
-	margin-right: -10000px;
-}
-
-#u367-11
-{
-	z-index: 4;
-	width: 322px;
-	min-height: 69px;
-	margin-right: -10000px;
-	margin-top: 82px;
-	left: 195px;
-}
 
 #u372-3
 {
@@ -69,13 +57,6 @@
 	left: 129px;
 }
 
-#u118
-{
-	z-index: 19;
-	width: 183px;
-	margin-right: -10000px;
-	left: 770px;
-}
 
 #ppmenuu467
 {
@@ -299,7 +280,7 @@
 	text-align: center;
 	line-height: 30px;
 	padding-right: 17px;
-	color: #005CB7;
+	color: #000000;
 }
 
 #u505-4
@@ -307,7 +288,7 @@
 	font-size: 20px;
 	text-align: justify;
 	line-height: 28px;
-	color: #005CB7;
+	color: #000000;
 }
 
 #u505-17,#u505-29
@@ -315,7 +296,7 @@
 	font-size: 19px;
 	text-align: justify;
 	line-height: 27px;
-	color: #005CB7;
+	color: #000000;
 }
 
 #u505-16,#u505-28,#u505-52
@@ -323,12 +304,12 @@
 	font-size: 19px;
 	text-align: justify;
 	line-height: 27px;
-	color: #00386F;
+	color: #000000;
 }
 
 #u505-5,#u505-8,#u505-9,#u505-12,#u505-15,#u505-18,#u505-21,#u505-24,#u505-27,#u505-30,#u505-33,#u505-36,#u505-39,#u505-42,#u505-45,#u505-48,#u505-51
 {
-	color: #005CB7;
+	color: #000000;
 }
 
 #u551
@@ -336,8 +317,8 @@
 	z-index: 101;
 	width: 291px;
 	background-color: transparent;
-	margin-left: 216px;
-	margin-top: 19px;
+	margin-left: 300px;
+	margin-top: 49px;
 	position: relative;
 }
 
@@ -348,8 +329,8 @@
 	height: 2px;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #000000;
-	background-color: #014C97;
+	border-color: transparent;
+	background-color: #B00000;
 	left: -52px;
 	margin-top: 44px;
 	position: relative;

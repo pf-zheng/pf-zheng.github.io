@@ -83,19 +83,19 @@ body
 
 a:link
 {
-	color: #0000FF;
+	color: #B00000;
 	text-decoration: underline;
 }
 
 a:visited
 {
-	color: #800080;
+	color: #B00000;
 	text-decoration: underline;
 }
 
 a:hover
 {
-	color: #0000FF;
+	color: #DE0000;
 	text-decoration: underline;
 }
 
