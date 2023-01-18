@@ -348,3 +348,10 @@ body
 	clear: both;
 }
 
+.hangingindent_t {
+	padding-left: 20px ;
+  }
+
+.hangingindent_tt {
+	padding-left: 40px ;
+  }
