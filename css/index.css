@@ -355,3 +355,8 @@ body
 .hangingindent_tt {
 	padding-left: 40px ;
   }
+
+.img_inline {
+	display:inline-block;
+    vertical-align: middle;
+}
