@@ -314,6 +314,17 @@
 	color: #000000;
 }
 
+#u527
+{
+	z-index: 99;
+	width: 49px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 246px;
+}
+
 #u566
 {
 	z-index: 94;
